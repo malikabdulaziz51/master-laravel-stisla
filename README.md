@@ -6,5 +6,7 @@ Apabila terjadi error
  
 Jalankan sintaks berikut pada terminal powershell
  > composer install 
+ 
  > cp .env.example .env
+ 
  > php artisan key:generate
